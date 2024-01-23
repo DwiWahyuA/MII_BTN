@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Calculate max price property when Outcome is not fill</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>610a9a73-3de6-4d92-b71c-a0dc43c4f91f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>85b99d32-cff4-4833-828f-2579f2d2ec8a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3bb71e1e-6110-4b78-9d7e-2da805208a24</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>85b99d32-cff4-4833-828f-2579f2d2ec8a</id>
+      <masked>false</masked>
+      <name>Gaji</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3bb71e1e-6110-4b78-9d7e-2da805208a24</id>
+      <masked>false</masked>
+      <name>Waktu</name>
+   </variable>
+</TestCaseEntity>

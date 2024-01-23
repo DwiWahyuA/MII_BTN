@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Calculate max price property when Outcome and Income is 0</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0a264ac-db27-4c1f-bd86-a13f6c2ea600</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d6dd560-9c02-433e-b05e-f660726d8a2c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>55290868-1581-41b6-81c5-50cebee293c8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>273e47ef-3022-4287-813f-768a5b5a7a5f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d6dd560-9c02-433e-b05e-f660726d8a2c</id>
+      <masked>false</masked>
+      <name>Gaji</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>55290868-1581-41b6-81c5-50cebee293c8</id>
+      <masked>false</masked>
+      <name>Pengeluaran</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>273e47ef-3022-4287-813f-768a5b5a7a5f</id>
+      <masked>false</masked>
+      <name>Waktu</name>
+   </variable>
+</TestCaseEntity>

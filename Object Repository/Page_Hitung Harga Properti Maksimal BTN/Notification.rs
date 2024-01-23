@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Notification</name>
+   <tag></tag>
+   <elementGuidId>df382016-c8bc-4978-bd25-7cfe7edc5d01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_hitung_harga']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b2004aef-d053-4501-8349-55ff05923964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Isi kurang dari nilai sebelumnya</value>
+      <webElementGuid>e21f6c4d-42ac-4d9b-bbeb-facd6bef77ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_hitung_harga&quot;)/div[@class=&quot;col-md-12&quot;]/p[1]</value>
+      <webElementGuid>1562300f-a526-4674-a7a8-ea4d1116e8b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_hitung_harga']/div/p</value>
+      <webElementGuid>3c82770c-1c7d-45af-aff6-ab34183d10e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/p</value>
+      <webElementGuid>a7a94180-335f-49c7-b837-12400f4b5b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Isi kurang dari nilai sebelumnya' or . = 'Isi kurang dari nilai sebelumnya')]</value>
+      <webElementGuid>c3c67edd-26c6-404a-99c6-18c0d19d0169</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
